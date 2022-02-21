@@ -1,0 +1,2 @@
+# project-robot-apocalypse
+This is a spring boot java application "robot-apocalypse", exposing REST APIs to add survivor, update his/her last location, report a survivors infected status, and retrieve live reports comprising of infected and non-infected survivors percentage, list of infected and non  infected survivors, as well as list of robots. This application uses an in memory database H2 which can be swapped with any alternate database with some minimal external properties configuration.
